@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dance.com</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+     <link rel="stylesheet" href="script.js">
+     <script type="text/javascript">
+        function togglemenu(){
+            document.getElementById('slidebar').classList.toggle('active')
+        }
+    </script>
+</head>
+<body>
+
+    <div class="header">
+        <div id="slidebar" onclick="togglemenu()">
+            <div class="toggle-btn">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+            <ul>
+                <li><a href="index.html">home</a></li>
+                <li><a href="sign.html">sign up</a></li>
+                <li><a href="about.html">about us</a></li>
+                <li><a href="contact.html">contact us</a></li>
+               
+            </ul>
+                </div>
+        <a href="#"><img src="img/logo.png" height="60px" width="60px"></a>
+        
+    </div>
+        <div>
+            <ul id="navbar">
+                
+            </ul>
+        </div>
+        
+
+<div>
+<h2>break dance </h2>
+<p>break dancing, also called breaking and B-boying, energetic form of dance, fashioned and popularized by African Americans and Latinos, that includes stylized footwork and athletic moves such as back spins or head spins. Break dancing originated in New York City during the late 1960s and early ’70s, incorporating moves from a variety of sources, including martial arts and gymnastics.
+
+ Break dancing is largely improvisational, made up of variations of “standard” moves or steps, including freezes, powermoves, downrock, and toprock. The emphasis is on energy, movement, creativity, humour, and an element of danger. It is meant to convey the rough world of the city streets from which it is said to have sprung. It is also associated with a particular style of dress that includes baggy pants or sweat suits, baseball caps worn sideways or backward, and sneakers (required because of the dangerous nature of many of the moves).
+
+
+The term break refers to the particular rhythms and sounds produced by deejays by mixing sounds from records to produce a continuous dancing beat. The technique was pioneered by DJ Kool Herc (Clive Campbell), a Jamaican deejay in New York who mixed the percussion breaks from two identical records. By playing the breaks repeatedly and switching from one record to the other, Kool Herc created what he called “cutting breaks.” During his live performances at New York dance clubs, Kool Herc would shout, “B-boys go down!”—the signal for dancers to perform the gymnastic moves that are the hallmark of break dancing.
+
+In the 1980s breaking reached a greater audience when it was adopted by mainstream artists such as Michael Jackson. Jackson’s moonwalk—a step that involved sliding backward and lifting the soles of the feet so that he appeared to be gliding or floating—became a sensation among teens. Record producers, seeing the growing popularity of the genre, signed artists who could imitate the street style of the breakers while presenting a more wholesome image that would appeal to mainstream audiences. Breaking had gone from a street phenomenon to one that was embraced by the wider culture. It is around this time that the term break dancing was invented by the media, which often conflated the repertoire of New York breakers with such concurrent West Coast moves as “popping” and “locking.” Those routines were popularized in the early 1970s by artists on television, including Charlie Robot, who appeared on the popular TV series
+
+Break dancing had an enormous influence on modern dance styles, and offshoots of it were performed in many music and especially rap videos as well as in live concerts by popular artists such as Britney Spears. The mainstreaming of the genre was never more clearly demonstrated than in 2004, when break-dancers were invited to perform in the Vatican before Pope John Paul II. Break dancing cemented its place in popular culture when, in 2020, the International Olympic Committee approved breaking as a sport at the 2024 Olympics in Paris.
+
+</p>
+
+<div class="pro-container">
+<div class="pro">
+    <img src="img/project 1.jpg" alt="">
+    <div class="des">
+    </div>
+
+</div>
+        
+
+   
+
+            <footer class="secion-p1">
+                 <div class="col">
+                     <img class="logo" src="img/logo.png" alt="">
+               
+                     <p> <strong> Address:</strong> pune </p>
+                     <p> <strong> Phone:</strong> 1234567890</p>
+                     <p> <strong> Hours:</strong> 10:00 to 18:00 MON-FRI </p>
+                     <div class="follow">
+                         <h4>Follow us</h4>
+                         <div class="icon">
+                            <a href="https://instagram.com/dev9970__?utm_medium=copy_link"> <i class="fab fa-facebook-f"></i></a>
+                            <a href="https://instagram.com/dev9970__?utm_medium=copy_link"><i class="fab fa-twitter"></i></a>
+                             <a href="https://instagram.com/dev9970__?utm_medium=copy_link"><i class="fab fa-instagram"></i></a>
+                             <a href="https://instagram.com/dev9970__?utm_medium=copy_link"><i class="fab fa-pinterest-p"></i></a>
+                             <a href="https://instagram.com/dev9970__?utm_medium=copy_link"><i class="fab fa-youtube"></i></a>
+                         </div>
+                     </div>
+                 </div>
+
+                 
+                 <div class="copyright">
+                     <p>@ copyright 2022</p>
+                 </div>
+            </footer>
+
+
+            
+        </body>
+</html>\
